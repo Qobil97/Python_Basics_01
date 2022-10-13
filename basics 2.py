@@ -1,0 +1,5 @@
+print ("alo")
+print("kim")
+print("oo")
+print("salom")
+print("*" *10)
