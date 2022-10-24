@@ -14,11 +14,11 @@ for file in file_list:
 # merged excel file.
 excl_merged = pd.DataFrame()
 
-for excl_file in excl_list:
+for excl_new_file in excl_list:
 
 
     excl_merged = excl_merged.append(
-        excl_file, ignore_index=True)
+        excl_new_file, ignore_index=True)
 
 
 excl_merged.to_excel('combined_raw_materials.xlsx', index=False)

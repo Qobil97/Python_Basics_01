@@ -1,6 +1,5 @@
-secret_number=9
+secret_number=15
 
-#here, i is renamed 
 
 guess_count=0
 guess_limit=3

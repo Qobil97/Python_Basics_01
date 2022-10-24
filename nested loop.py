@@ -3,7 +3,9 @@ for x in range(4):
         print(f'({x}, {y})')
 
 
-        #
+        
+
+#i is changed to x_count
 numbers=[5,2,5,2,2]
 
 for x_count in numbers:
